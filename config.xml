@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+<installed>1</installed>
+<dbhost>10.100.4.50</dbhost>
+<dbpassword>Saimaa#2010</dbpassword>
+<dbusername>root</dbusername>
+<dbname>qprevent1234</dbname>
+</config>
