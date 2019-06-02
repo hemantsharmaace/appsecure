@@ -1,7 +1,7 @@
 <?php 
 /**
  * Main file to handle install of Qprevent
- * @author Quatrro
+ * @author Hemant
  * @version 1.0
  */  
  
