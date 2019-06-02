@@ -18,7 +18,6 @@ if(isset($folderName) && !folder_exist($folderName)){
 //check if plugin is installed
 $installed = null; 
 $installConfig = readInstallConfig(); 
-//echo "<pre>";print_r($installConfig );echo "</pre>";exit(); 
 $installed = $installConfig['installed'];
 
 if(!$installed){	
